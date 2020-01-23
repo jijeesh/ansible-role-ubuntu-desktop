@@ -3,7 +3,7 @@ allow_duplicates: false
 
 galaxy_info:
   role_name: ubuntu_desktop
-  author: "MARVEL NCCR"
+  author: "Jijeesh"
   # yamllint disable-line rule:line-length
   description: "An ansible role that installs & configures Ubuntu desktop on plain Ubuntu."
   license: MIT
